@@ -5,7 +5,7 @@
 - Backend web development
 - Frontend web development (Bootstrap, jQuery)
 - MVC Frameworks For ASP.Net and PHP CodeIgniter
-- 
+- MSSQL, MySQL & Redis
 
 ## 💻 My Current Tech Stack 
 - .Net Stack, .Net Core, Web Forms, Razor Pages, MVC, Entity Framework 
